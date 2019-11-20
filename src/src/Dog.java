@@ -1,6 +1,6 @@
 package src;
 
-public class Dog {
+public class Dog  {
     int size;
     public void bark(int times){
 
